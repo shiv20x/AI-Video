@@ -1,0 +1,11 @@
+modelscope==1.4.2
+open_clip_torch
+pytorch-lightning
+# gensim= 4.3.0
+FuzzyTM>=0.4.0
+# tables= 3.8.0
+blosc2~=2.0.0
+cython>=0.29.21
+# torchaudio 2.1.2
+torch==2.1.2
+# xformers= 0.0.23
